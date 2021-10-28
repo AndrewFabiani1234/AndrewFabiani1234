@@ -1,6 +1,6 @@
 <div align="center" size="50">
    
-   # Olá, sou o Andrew Fabiani
+   <font color="rgb(112, 164, 252)"><h2> Olá! sou o Andrew Fabiani </h2></font>
     
 </div>
 
