@@ -31,11 +31,14 @@
  
 <div align="center">
    <h3> Social Medias </h3>
-   <a href="https://linkedin.com/in/andrew-fabiani-497336207">
+   <a href="https://linkedin.com/in/andrew-fabiani-497336207" target="_blank">
       <img align="center" alt="Andrew-LinkedIn" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   <a href="https://instagram.com/andrew_fabiani">
+   <a href="https://instagram.com/andrew_fabiani" target="_blank">
        <img align="center" alt="Andrew-Instagram" height="30" width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+    <a href = "mailto:andrewfabiani24@gmail.com" target="_blank">
+       <img align="center" alt="Andrew-Gmail" height="30" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
 </div>
              
