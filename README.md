@@ -17,7 +17,7 @@
 <div align="center">
   <br>
   <img align="center" alt="Andrew-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Andrew-NodeJS" height="30" width="100" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
+  <img align="center" alt="Andrew-NodeJS" height="30" width="160" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
   <img align="center" alt="Andrew-JAVA" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <br><br>
   
